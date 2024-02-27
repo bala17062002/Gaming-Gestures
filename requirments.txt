@@ -1,0 +1,8 @@
+opencv
+cvzone
+numpy
+mediapipe
+pyautogui
+matplotlib
+flask
+pip install -r requirments
